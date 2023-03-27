@@ -1,0 +1,56 @@
+#maincontainer{
+
+	background-color: #96A4DF;
+	min-height: 700px;
+}
+
+#name{
+	color: #ffffff;
+	font-family: Lora;
+	font-size: 60px;
+}
+
+#profile{
+	width: 230px;
+	height: 230px;
+}
+
+#intro{
+	color:black;
+	font-family: PT Sans;
+	font-size: 20px;
+}
+
+#secondcontainer{
+	background-color: #EDE8DF;
+}
+
+#title{
+	color: black;
+	font-family: Lora;
+}
+
+#projectcard{
+	 border: 2px solid black;
+  	border-radius: 5px;
+  	font-family: PT Sans;
+}
+
+#cont{
+	margin-top: 5rem;
+}
+
+#form{
+	border-radius: 5px;
+	font-family: PT Sans;
+	background-color: #96A4DF;
+}
+
+.formg{
+	font-family: Lora;
+}
+
+#footer{
+	background-color:gray ;
+	font-family: PT Sans;
+}
